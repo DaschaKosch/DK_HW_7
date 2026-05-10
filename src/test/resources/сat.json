@@ -1,0 +1,48 @@
+{
+  "id": "cat_001",
+  "name": "Муся",
+  "breed": "Русская голубая",
+  "age": {
+    "years": 1,
+    "months": 7
+  },
+  "color": {
+    "primary": "серый",
+    "secondary": "белый"
+    },
+  "weight": {
+    "kg": 5.2,
+    "lastMeasured": "2026-05-01"
+  },
+  "character": {
+    "temperament": ["дружелюбный", "игривый", "независимый"],
+    "energyLevel": "MEDIUM",
+    "affectionLevel": 8,
+    "childFriendly": true,
+    "dogFriendly": false,
+    "strangerFriendly": "CAUTIOUS"
+  },
+  "preferences": {
+    "favoriteFood": ["влажный корм с курицей", "лакомства с лососем"],
+    "favoriteToys": ["удочка с перьями", "мячик с колокольчиком", "картонная коробка"],
+    "sleepingSpots": ["подоконник", "корзина у батареи", "кровать хозяина"],
+    "dislikes": ["пылесос", "вода", "закрытые двери"]
+  },
+  "achievements": [
+    {
+      "title": "Мастер прыжков",
+      "description": "Запрыгивает на шкаф с первого раза",
+      "unlockedAt": "2025-08-12"
+    },
+    {
+      "title": "Охотник на лазер",
+      "description": "Поймал красную точку (по его мнению)",
+      "unlockedAt": "2025-01-20"
+    }],
+  "metadata": {
+    "createdAt": "2022-10-05T10:30:00Z",
+    "updatedAt": "2026-05-10T14:20:00Z",
+    "source": "Домашний питомец",
+    "verified": true
+  }
+}
